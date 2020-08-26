@@ -1,4 +1,5 @@
 adm2_code,adm1_code,year,yield,area_harvested_obs,phen_gup,phen_dor
+sample data 
 US01031,US01,2003,123.0,5500.0,72,295
 US01031,US01,2004,111.0,6900.0,72,295
 US01031,US01,2005,127.0,6000.0,72,295
